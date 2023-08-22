@@ -36,7 +36,8 @@ Python3.9+各种库
 
 - 运行app.py:
 
-![image](https://github.com/Mingdaj/zhilianxiaozhao-visual/assets/130920375/c73e6140-b167-472f-be7b-f4ff88ae95d9)
+![image](https://github.com/Mingdaj/zhilianxiaozhao-visual/assets/130920375/4034ce39-dee6-41c3-b2e7-1a105f01ce13)
+
 
 
 - 以浏览器的方式打开index.html:
